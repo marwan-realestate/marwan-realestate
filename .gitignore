@@ -1,0 +1,7 @@
+node_modules/
+.next/
+.env
+data/
+project-export.zip
+*.log
+.DS_Store
